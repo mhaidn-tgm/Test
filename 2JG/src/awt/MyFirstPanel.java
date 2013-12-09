@@ -24,5 +24,6 @@ public class MyFirstPanel extends Panel {
 		this.add(l);		// Das Label wird dem Panel hinzugefügt
 		tf=new TextField("SEW"); // Ein Textfield mit einem Standardtext wird erstellt.
 		this.add(tf);		// und dem Panel hinzugefügt
+		Syste.out.println("Das wurde im Förderkurs SEW hinzugefügt");
 	}
 }

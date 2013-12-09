@@ -1,0 +1,121 @@
+[33mcommit 070582fe81cbb1e0e898ce95e7d189d5c6c71b5f[m
+Author: HIT Schueler <hit.schueler@gmx.at>
+Date:   Sun Dec 1 09:00:03 2013 +0100
+
+    updated
+
+[33mcommit b6e9c76ec2058aec9f53c5fe58d3ab3d095568c6[m
+Author: HIT Schueler <hit.schueler@gmx.at>
+Date:   Sun Dec 1 07:46:57 2013 +0100
+
+    only awt
+
+[33mcommit da58703e011c2fe3ac26fe72efcb7470993b9957[m
+Author: Peter Fuchs <peterfuchs_1@yahoo.de>
+Date:   Sat Nov 30 22:33:08 2013 +0100
+
+    Textfield added
+
+[33mcommit cfe23381f2c0b9b666e1580cba5c78b5632b895a[m
+Author: Peter Fuchs <peterfuchs_1@yahoo.de>
+Date:   Sat Nov 30 21:59:59 2013 +0100
+
+    delete unused imports
+
+[33mcommit 58123d9eaeb4748d8468bbf0d6fc03476afc594d[m
+Author: Peter Fuchs <peterfuchs_1@yahoo.de>
+Date:   Sat Nov 30 14:40:52 2013 +0100
+
+    delete the implementation of the Window-Listener
+
+[33mcommit f3bd46acc1a554082a112be5cedad2b728e4606a[m
+Author: Peter Fuchs <peterfuchs_1@yahoo.de>
+Date:   Sat Nov 30 14:29:03 2013 +0100
+
+    delete the Window-methods
+
+[33mcommit 3ddadea233d06df9916961d88ab34e2950ad5f4c[m
+Author: Peter Fuchs <peterfuchs_1@yahoo.de>
+Date:   Sat Nov 30 08:08:18 2013 +0100
+
+    eigene WindowAdapter-Klasse erstellt
+
+[33mcommit 8baf49819da7567b21379d9bff0b32861394b0e7[m
+Author: peterfuchs1 <peterfuchs_1@yahoo.de>
+Date:   Thu Nov 28 09:38:20 2013 +0100
+
+    Dokumentierung
+
+[33mcommit 10587addce872eeaaee745b68e79830e3f623cb1[m
+Author: peterfuchs1 <peterfuchs_1@yahoo.de>
+Date:   Thu Nov 28 09:28:51 2013 +0100
+
+    Panel mit Label
+
+[33mcommit a6d5459ccfcd4acf21c3aee717a5126217b8d9b5[m
+Author: peterfuchs1 <peterfuchs_1@yahoo.de>
+Date:   Wed Nov 27 10:36:18 2013 +0100
+
+    Label erstellt
+    und in neuer Klasse getestet
+
+[33mcommit 399705d8f2f1de322b97eb488d4ed42ab726f22f[m
+Author: uhs374h <uhs374h@W7>
+Date:   Tue Nov 26 18:35:24 2013 +0100
+
+    Panel added
+
+[33mcommit 885af0ba002444ff3177b7653d66673d5ec0ae3e[m
+Author: uhs374h <uhs374h@W7>
+Date:   Tue Nov 26 10:47:50 2013 +0100
+
+    correct Comment
+
+[33mcommit 4781c357650adff8a78a7094b67203af3f3b8804[m
+Author: uhs374h <uhs374h@W7>
+Date:   Tue Nov 26 10:44:40 2013 +0100
+
+    awt: first steps added
+
+[33mcommit e00ee8077106aa8e1ea38a97f61c919de63f6441[m
+Author: peterfuchs1 <peterfuchs_1@yahoo.de>
+Date:   Wed Oct 30 12:53:10 2013 +0100
+
+    abstrakte Klassen added
+
+[33mcommit 5dea4d50f4625aa8719e10a2124730e0724082e9[m
+Author: peterfuchs1 <peterfuchs_1@yahoo.de>
+Date:   Tue Oct 29 10:17:01 2013 +0100
+
+    Printable extends Serializable
+
+[33mcommit d1cb8e4e2be51d9ffd2857bbfd48bc61b0e82975[m
+Author: peterfuchs1 <peterfuchs_1@yahoo.de>
+Date:   Tue Oct 29 09:13:39 2013 +0100
+
+    correct german syntax errors
+
+[33mcommit e0d493985ccde2be2e9c87ef9173815aa9b1edc3[m
+Author: peterfuchs1 <peterfuchs_1@yahoo.de>
+Date:   Tue Oct 29 09:05:40 2013 +0100
+
+    add interface with examples!
+
+[33mcommit a12edbaff1101a71aa3a0142d619e52bcd2ea497[m
+Author: peterfuchs1 <peterfuchs_1@yahoo.de>
+Date:   Thu Oct 17 08:53:06 2013 +0200
+
+    Vererbung erweitert,
+    nun mit einer Testklasse
+
+[33mcommit 38ce53ac5e69b607844414baf1f595201b915cd2[m
+Author: uhs374h <uhs374h@myHost>
+Date:   Sun Oct 6 18:52:56 2013 +0200
+
+    Umlaute korrigiert!
+
+[33mcommit d792fabb170325fed3fefe71f8c977dd4da109b0[m
+Author: peterfuchs1 <peterfuchs_1@yahoo.de>
+Date:   Sun Oct 6 18:36:48 2013 +0200
+
+    First Commit; Class Komplex finished
